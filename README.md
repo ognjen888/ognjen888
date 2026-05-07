@@ -5,7 +5,6 @@ Welcome, my name is **Ognjen Letić** 👋 - I'm a passionate Software Engineer 
 
 *   🌍  I'm currently living in Germany
 *   📂  Here you can see some of my <a href='https://github.com/ognjen888?tab=repositories'>projects</a>
-*   📰  Here you can see my <a href=''>portfolio</a>
 
 Languages
 --------------------------
